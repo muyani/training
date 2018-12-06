@@ -1,0 +1,21 @@
+API Development
+
+-Send Sms
+-Send Email
+-Send FCM to UID
+
+
+WEB
+Password needs guidance.
+Not Responsive when adding education/experiences/skills on the phone.
+view full profile includes even the deleted programmes/experience/skills(constraints)
+tabs on decline,accepted,pending,alljobs,
+applicants tab which is a datatable.
+tab on deactivated and active jobs(hirer side)
+View Full profile including name and everything.
+
+ANDROID
+Need of Toasts views when adding experiences.
+after signing in with google.--there comes an endless loader.
+Education date picker should adjust to include oncoming years.
+
